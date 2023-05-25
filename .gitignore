@@ -1,0 +1,9 @@
+.DS_Store
+.dccache
+client/.DS_Store
+client/.dccache
+client/node_modules
+server/.DS_Store
+server/.dccache
+server/node_modules
+server/uploads
